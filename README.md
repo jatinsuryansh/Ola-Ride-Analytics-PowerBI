@@ -9,7 +9,7 @@ This project analyzes Ola ride booking data using Power BI.
 - Power Query
 - DAX
 - Excel/CSV
-- SQ
+- SQL
 
 ## Dashboard Pages
 1. Overall
@@ -39,5 +39,5 @@ This project analyzes Ola ride booking data using Power BI.
 
 ## Files
 - Ola_Dashboard.pbix — Power BI dashboard
-- Dataset.csv — Dataset used for analysis
-- Dashboard_Screenshot.png — Dashboard preview
+- Ola_Delhi_booking_data.xlsx — Dataset used for analysis
+- Dashboard_Screenshot.png 
