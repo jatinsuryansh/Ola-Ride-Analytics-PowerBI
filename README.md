@@ -40,4 +40,6 @@ This project analyzes Ola ride booking data using Power BI.
 ## Files
 - Ola_Dashboard.pbix — Power BI dashboard
 - Ola_Delhi_booking_data.xlsx — Dataset used for analysis
-- Dashboard_Screenshot.png 
+## Dashboard Preview
+
+![Ola Power BI Dashboard](./Dashboard_Screenshot.png)
